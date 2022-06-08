@@ -1,0 +1,59 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@dutt-sanjay 
+Branch master was renamed to main.
+github
+/
+gitignore
+Public
+Code
+Pull requests
+270
+Actions
+Security
+Insights
+gitignore/Maven.gitignore
+@baincd
+baincd Ignore Eclipse .project and .classpath when using build tools Maven o…
+…
+Latest commit 7f56496 on Apr 25, 2021
+ History
+ 12 contributors
+@tjkemper@gzm55@zafarella@thomaseizinger@tgkprog@oschrenk@nnuhanovic@bondolo@fulldecent@jcgay@shiftkey@baincd
+17 lines (16 sloc)  382 Bytes
+   
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse m2e generated files
+# Eclipse Core
+.project
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
